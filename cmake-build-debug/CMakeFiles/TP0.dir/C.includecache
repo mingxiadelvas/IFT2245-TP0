@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/ming_/Documents/IFT2245/tp0-clionteam/src/main.c
+stdlib.h
+-
+stdio.h
+-
+main.h
+/mnt/c/Users/ming_/Documents/IFT2245/tp0-clionteam/src/main.h
+
+/mnt/c/Users/ming_/Documents/IFT2245/tp0-clionteam/src/main.h
+stdlib.h
+-
+stdio.h
+-
+
